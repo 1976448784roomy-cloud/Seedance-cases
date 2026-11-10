@@ -1,0 +1,56 @@
+﻿20260928 国风秋意提示词
+
+示例 01
+Ancient Chinese courtyard corridor framed by dark wooden pillars and overhanging orange osmanthus branches, a lone woman in pale hanfu seated beside a guqin, playing quietly in profile, tiny human figure surrounded by vast architecture and foliage, giant tree canopy and layered garden depth dominating the image, robe hem and silk ribbons stirred by wind, drifting petals and dust motes in the sunbeams, white walls, dark tiled roofs, soft haze in the distance, serene and silent mood, refined oriental Chinese aesthetics, cinematic live-action realism, strict 90-degree side view, ultra-wide long shot, low-saturation gold-orange and moss green palette, soft lighting, global illumination, volumetric light, low-key, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+示例 02
+An ancient Chinese courtyard enclosed by white walls and layered pagoda rooftops, beneath a gigantic flowering tree with warm peach-gold blossoms, two women in flowing hanfu seated opposite each other at a stone table, either playing weiqi or sharing tea, tiny figures surrounded by monumental tree branches and architecture, wind scattering petals through the air, robes fluttering gently, foreground blossoms softly framing the shot, bright but low-key soft light, atmospheric particles, volumetric sun rays, dreamy and elegant mood, refined oriental Chinese aesthetics, cinematic live-action realism, strict 90-degree side view, ultra-wide large long shot, low-saturation gold-orange and green palette, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+示例 03
+Ancient Chinese woman in light green hanfu, medium shot, standing quietly with one hand lifting her sleeve, robes and hair blown dramatically by autumn wind, foreground soft blurred leaves creating layered depth, drifting leaf particles and pollen in the air, elegant side profile, soft lighting, low-saturation gold-orange and green palette, low-key, poetic oriental cinematic realism, shallow depth of field, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+示例 04
+Ancient Chinese woman holding a round silk fan, medium close shot, strict side profile, loose strands of hair flying wildly in strong wind, sleeves and veil swept backward, foreground dark blurred foliage framing the lower and side edges, floating bokeh leaves and fine particles in the atmosphere, soft diffused sunlight, subtle god rays, low-saturation gold-orange and green palette, low-key cinematic realism, refined oriental aesthetics, no modern objects, no text --ar 16:9 --raw --stylize 400 --hd
+
+示例 05
+Ancient Chinese woman carrying a small lantern, medium shot, walking slowly in side profile, strong wind driving her hair and sleeves backward, foreground out-of-focus branches and leaves obscuring part of the scene, floating blurred leaf particles and dust in the air, soft diffused lighting, low-saturation gold-orange and green palette, low-key atmosphere, refined oriental cinematic realism, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+示例 06
+A long ancient Chinese corridor with dark wooden beams, white walls and tiled roofs, framed by dense green trees and orange autumn leaves, a solitary woman in ivory hanfu walking slowly in perfect side profile, tiny in the frame, sleeves and veil pulled by a strong breeze, fallen leaves skimming across the stone floor, giant branches and architecture dominating the composition, floating dust and faint mist illuminated by soft sunlight, silent and meditative atmosphere, refined oriental Chinese aesthetics, cinematic live-action realism, strict 90-degree side view, ultra-wide distant shot, low-saturation gold-orange and green palette, soft global illumination, god rays, low- key, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+示例 07
+Ancient Chinese covered corridor opening toward a garden after rain, dark pillars and lattice windows framing an immense moss-green tree and muted orange foliage outside, a woman in pale hanfu standing sideways at the corridor opening, quietly gazing outward, tiny figure in the frame, damp stone floor reflecting faint light, sleeves and ribbons moving in the wind, misty air filled with floating particles and a few drifting wet leaves, soft post-rain glow, still and introspective mood, refined oriental Chinese aesthetics, cinematic live-action realism, strict 90- degree side view, ultra-wide distant composition, low-saturation gold-orange and green palette, soft lighting, global illumination, volumetric haze, low-key, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+视频提示词:
+
+第 1 组(千年古银杏・二人对坐饮茶)优化版
+
+电影级单镜头,全景平视构图,镜头极缓慢平稳向右横移,全程顺滑无抖动,始终保持两人居于画面中下位置,人物占画面比例很小,凸显古树庭院的宏大尺度。前景是自然铺落的金黄银杏叶,画面主体为苍劲盘错的千年古银杏,粗壮枝干横向舒展,背景掩映中式古建殿宇。狂风持续吹拂:两人相对跪坐于茶案两侧,抬手举杯对饮,姿态娴雅从容;二人广袖长袍的衣袂、发带与裙摆被风向后侧方持续扬起,布料褶皱随气流自然起伏,动作克制真实。古银杏枝叶分层摇晃,枝头叶片先颤动再脱落,少量金黄叶片从中景缓慢旋转飘落,近景边缘有几片银杏叶快速掠过并虚化,背景叶群形成稀疏不规则的风卷涡流。空气中只保留极淡的金色微尘,在逆光光路中若隐若现,不形成明显粒子辉光。丁达尔光束穿透叶隙斜斜洒落,穿过少量落叶与浮尘形成柔和光路,地面光影随枝叶晃动自然变化。超写实古风电影质感,暖调秋日通透光影,古树厚重苍劲,金叶绚烂但不夸张,整体静穆中带有流动的诗意。严格保持原图构图、古树形态、建筑形制、两人数量与古风长袍造型,禁止增加额外人物、建筑与道具,禁止面部变形、肢体畸变、建筑扭曲、画面剧烈抖动、快速运镜、现代元素、文字水印与卡通质感。
+
+第 2 组(廊下花蔓・女子抚琴)优化版
+
+电影级单镜头,中全景框式构图,镜头极缓慢平稳向前推近,全程顺滑无抖动,以廊檐立柱与花蔓形成天然画框,抚琴女子始终居于画面中下中心位置,人物占画面比例偏小。前景为积有浅水的石面地面,画面上方垂落橙红色花簇,背景是薄雾笼罩的江南庭院与白墙黑瓦古宅。狂风持续吹拂:女子静坐姿于琴案前,双手轻拂琴弦,姿态沉静优雅;素白广袖长裙的披帛与裙摆被风向后持续扬起,轻薄纱料随风自然翻卷。枝头花簇随枝叶明显摇晃,少量细碎橙红花瓣从枝头脱落,以不规则弧线缓慢飘向水面,近景虚化花瓣偶尔掠过镜头,背景花瓣形成稀疏风卷。空气中只保留极淡的金色微尘与细碎花屑,在逆光中隐约漂浮,不做高亮粒子辉光。丁达尔光束穿过花隙与薄雾形成柔和光路,水面花影随微风轻轻流动。超写实古风电影质感,晨雾朦胧柔光,庭院清雅静谧,花叶动态真实克制。严格保持原图构图、廊架形制、建筑形态、人物姿态与白色长裙造型,禁止增加额外人物、建筑与道具,禁止面部变形、肢体畸变、建筑扭曲、画面剧烈抖动、快速运镜、现代元素、文字水印与卡通质感。
+
+第 3 组(庭中框景・亭内抚琴)优化版
+
+电影级单镜头,中景平视构图,手持拍摄,带有自然轻微的呼吸抖动,无快速运镜与镜头突变;以前景树干与枝叶形成虚化前景框,抚琴女子居于画面中心。画面中部为中式雕花亭台,亭中白衣女子端坐琴前,素手轻放琴弦之上,背景是葱郁青绿树木与淡蓝山影。狂风持续吹拂:女子长发与广袖裙摆被风轻轻扬起,衣料褶皱随气流自然起伏;人物指尖轻拨琴弦,动作舒缓。枝头橙红花瓣与绿叶先剧烈颤动,再少量脱落,叶片以不规则旋转缓慢下落,前景虚化枝叶随风轻轻扫过画面边缘。空气中漂浮极淡的金色微尘与细碎花屑,只在局部光线下隐约可见,不形成明显粒子辉光。暖调阳光穿过枝叶缝隙洒落,在亭台与地面投下斑驳晃动的光影,前景虚化形成柔和焦外光斑。超写实古风电影质感,景深层次丰富,光影温润柔和,庭院幽静雅致。严格保持原图构图、亭台形制、人物姿态与白色汉服造型,禁止增加额外人物、建筑与道具,禁止面部变形、肢体畸变、建筑扭曲、画面剧烈抖动、快速运镜、现代元素、文字水印与卡通质感。
+
+第 4 组(秋叶回眸・近景人像)优化版
+
+电影级单镜头,近景特写构图,手持拍摄,带有自然轻微的呼吸抖动,镜头稳定无大幅晃动,人物始终居于画面中心。前景为多层虚化的橙红色秋叶,形成柔和散景光斑包裹画面;主体是身着淡青色汉服的古风女子,侧身回眸望向镜头方向,眼神沉静悠远。狂风持续席卷:女子乌黑长发向画面四周肆意飞扬,凌乱发丝拂过脸颊与脖颈,发丝运动有速度感但符合风向;广袖衣袍向侧后方持续飘起,布料褶皱随气流自然翻涌,面料纹理清晰真实。空中减少红叶数量,改为近景几片虚化红叶快速擦过镜头,中景少量红叶以不规则弧线飘落,背景红叶形成稀疏风卷,不再铺满画面。金色粒子改为极淡空气尘埃,只在侧逆光光路中隐约可见,不出现高亮粒子辉光。暖调逆光从侧后方穿透发丝与叶隙,在人物轮廓与发丝边缘勾勒明亮金边,丁达尔光效柔和真实。超写实古风电影质感,皮肤纹理细腻真实,秋叶浓郁但不虚假,破碎故事感与氛围感拉满。严格保持原图人物五官特征、服装形制与整体色调,禁止面部变形、肢体畸变,禁止新增人物、建筑与道具,禁止现代元素、文字水印与卡通质感。
+
+第 5 组(侧脸逆光・近景人像)优化版
+
+电影级单镜头,近景侧脸构图,手持拍摄,带有自然轻微的呼吸抖动,人物侧脸居于画面中心,镜头缓慢轻微向前推近,无快速运镜。前景是多层虚化的深绿叶片,形成柔和前景遮挡与焦外光斑;主体是身着暗纹古风长袍的女子,侧脸朝向画面左侧,眼神清冷沉静。狂风持续吹拂:女子额前碎发与鬓边发丝向侧后方肆意飞扬,凌乱发丝拂过脸颊,光影在发丝间形成通透轮廓光;肩头衣料随气流微微起伏,面料暗纹与肌理清晰真实。空中减少漂浮叶片数量,改为少量近景虚化叶片掠过镜头边缘,中景叶片以不规则缓慢旋转下落,背景叶影随风形成轻微涡流。空气中只保留极淡的金色微尘,在逆光中隐约漂浮,不做明显粒子辉光。侧逆光从人物后方斜射而来,穿透发丝与叶片形成明亮金边与柔和丁达尔光束,光影在人物侧脸与衣物上形成自然明暗过渡。超写实古风电影质感,皮肤质感细腻真实,光影层次丰富,暖调中带着清冷情绪。严格保持原图人物侧脸轮廓、五官特征与服装形制,禁止面部变形、肢体畸变,禁止新增人物、建筑与道具,禁止现代元素、文字水印与卡通质感。
+
+第 6 组(提灯行旅・林间前行)优化版
+
+电影级单镜头,中近景跟拍构图,手持拍摄,镜头随人物行进缓慢向后匀速退镜,保持人物始终居于画面中心,带有自然轻微的呼吸抖动,无快速运镜与镜头突变。前景为虚化深色树枝与叶片,主体是身着素白麻质古风长裙的女子,手提暖黄灯笼向前行走,臂弯竹篮里卧着一只小兔子,姿态从容悠然。狂风持续吹拂:女子长发向侧后方大幅飞扬,发丝运动持续而自然;宽大裙摆与披帛被风向后持续扬起,布料褶皱随步伐与气流自然翻涌,灯笼暖光轻微晃动。空中减少落叶数量,改为近景少量枯叶快速擦过镜头,中景枯叶以不规则弧线缓慢飘落,背景叶群形成稀疏风卷涡流。空气中只保留极淡的金色尘埃,在逆光光路中隐约可见,不形成高亮粒子辉光。暖调逆光从侧后方洒落,在人物轮廓与裙摆边缘勾勒柔和金边,丁达尔光束穿过少量落叶形成朦胧光路。超写实古风电影质感,暖调秋日柔光,林间静谧悠远,带江湖行旅故事感。严格保持原图人物姿态、服装造型、灯笼与兔子元素,禁止面部变形、肢体畸变,禁止新增人物、建筑与道具,禁止现代元素、文字水印与卡通质感。
+
+第 7 组(廊下抚琴・侧影中景)优化版
+
+电影级单镜头,中近景侧视构图,手持拍摄,带有自然轻微的呼吸抖动,人物与古琴居于画面中心。前景是虚化深绿枝叶,形成柔和前景遮挡与焦外光斑;主体是身着米白外衫、绿色内裙的古风女子,侧身坐于廊下,双手轻放琴弦之上,正低头抚琴,姿态娴静专注。狂风持续吹拂:女子长发与衣衫向侧后方轻轻扬起,发丝与衣料随气流自然飘动;指尖轻拨琴弦,动作舒缓优雅。周围绿叶与细碎花瓣减少数量,枝头叶片先颤动再脱落,少量叶片在空中轻盈旋转下落,前景虚化枝叶随气流轻轻扫动。空气中只保留极淡的金色微尘,在局部逆光中隐约漂浮,不做明显粒子辉光。暖调侧光从画面右侧洒落,在人物衣物与琴弦上形成柔和明暗层次,廊下阴影与户外亮部形成温润对比。超写实古风电影质感,光影柔和静谧,庭院清雅悠然,琴意氛围浓厚。严格保持原图人物姿态、服装形制与古琴元素,禁止面部变形、肢体畸变,禁止新增人物、建筑与道具,禁止现代元素、文字水印与卡通质感。
+
+第 8 组(古殿框景・苍林伫立)优化版
+
+电影级单镜头,全景框式构图,镜头极缓慢平稳向前推近,全程顺滑无抖动,以中式殿宇立柱与雕花檐梁形成天然画框,白衣女子始终居于画面中下中心位置,人物占画面比例很小,凸显山林古木的宏大幽深。前景为湿润反光石砌地面,画面正中央是苍劲参天古木,两侧为深色木质立柱与雕花窗格。狂风持续吹拂:女子静立望向远方,身姿清雅挺拔;素白长裙与长发带被风向后侧方持续扬起,披帛随风舒展。古木枝叶分层摇晃,翠绿叶片与少量橙红秋叶从枝头自然脱落,近景边缘叶片快速掠过并虚化,中景叶片缓慢旋转下落,背景叶群形成稀疏不规则风卷。林间雾气中只保留极淡的金色微尘,在逆光光路中隐约可见,不形成高亮粒子辉光。丁达尔光束穿透林间薄雾斜向洒落,形成清晰柔和光路,地面斑驳光影随枝叶自然晃动。超写实古风电影质感,山林清幽静谧,古木苍劲厚重,仙气与禅意交织。严格保持原图构图、古建形制、古树形态、人物姿态与白色长裙造型,禁止增加额外人物、建筑与道具,禁止面部变形、肢体畸变、建筑扭曲、画面剧烈抖动、快速运镜、现代元素、文字水印与卡通质感。

@@ -1,0 +1,172 @@
+﻿20261103 日系CG女剑客提示词
+
+示例 01
+in a loose high ponytail, wearing a beige oversized cardigan over a white T-shirt, navy pleated skirt, white socks and black loafers, walking slowly through a quiet glass school corridor after rain, casually carrying a magnificent cyan-blue glowing longsword in one hand, expression peaceful and slightly melancholic, high-angle wide full-body shot, subject occupying 35 percent of frame, brilliant turquoise energy streaming from the blade, countless glowing blue particles floating in the air, soft reflections on polished floor, cloudy afternoon sunlight, luminous rim light, dreamy Cooke lens rendering, cinematic depth, beautiful magical realism --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 02
+cinematic Japanese semi-realistic 3D CG film still, cute adult woman with a fluffy chestnut high ponytail and wispy bangs, wearing an oversized white T-shirt, pale denim shorts and white sneakers, leaning casually against a convenience store refrigerator, holding an elegant long silver spear glowing with soft pink and white celestial energy, sleepy half-lidded eyes and a tiny bored pout, frontal medium shot, delicate pink light ribbons spiraling around the spearhead, sparkling translucent particles floating through the air, ordinary colorful drink shelves softly blurred behind her, gentle fluorescent lighting mixed with afternoon sunlight, luminous edge highlights, creamy Cooke lens rendering, dreamy magical realism --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 03
+cinematic Japanese semi-realistic 3D CG film still, graceful adult woman with a long flowing black high ponytail, wearing an oversized pale-blue school cardigan, white blouse, charcoal pleated skirt and white sneakers, standing in a clean rooftop doorway, loosely holding two elegant silver- white glowing swords pointed downward, head slightly tilted with an unimpressed expression, diagonal high-angle full-body shot, powerful wind lifting her hair and cardigan, brilliant silver light trails and floating crystalline particles surrounding both blades, open blue sky, soft afternoon sunlight, luminous rim light, creamy Cooke lens, soft global illumination, striking cinematic contrast --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 04
+cinematic Japanese semi-realistic 3D CG film still, cool adult woman with messy shoulder-length black hair and delicate freckles, wearing a loose white cotton shirt, dark pleated skirt and black ankle boots, sitting casually on the edge of a wooden piano bench in a quiet music classroom, one hand resting on an enormous crimson glowing greatsword standing vertically beside her, relaxed confident gaze toward the camera, medium-long full-body composition, brilliant red-orange energy flowing within the blade, countless glowing embers and shimmering particles, soft afternoon window light, luminous rim highlights, creamy Cooke lens rendering, cinematic atmosphere, striking contrast between ordinary clothing and legendary weapon --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 05
+cinematic Japanese semi-realistic 3D CG film stll, elegant adult woman with a short dark bob and subtle freckles, wearing a loose ivory cardigan, white shirt and charcoal pleated skirt, standing between quiet library bookshelves, casually holding an elaborate translucent ice-blue magical bow with one luminous arrow, looking toward the camera with a distant melancholic gaze, three- quarter medium shot, icy blue energy ribbons and thousands of tiny crystalline particles floating around the bow, blurred foreground books, soft window sunlight, bright luminous edge highlights, creamy Cooke lens rendering, shallow depth of field, ethereal cinematic atmosphere --ar 16:9 --hd --raw --p m7503468272767991815
+
+@image1(严格首帧参考)--保持女主黑色长发、自然刘海、细腻五官、白色校园衬衫、灰色针织毛衣、格纹短裙,以及原图的身体姿态、建筑环境、斜向构图和柔和逆光。
+
+保持原图悬浮长剑的位置不变:剑柄位于画面右上方,剑身斜向延伸至左下方前景。
+
+长剑整体散发明亮的紫色辉光,剑刃周围缠绕流动的紫罗兰能量,伴随少量紫白色粒子漂浮。
+
+女主依然只是一个穿着普通校园服饰的少女,没有铠甲、没有战斗装备,外表柔软、干净、安静。
+
+但当她看向这把剑时,眼神会从原本的温和逐渐变得专注、冷静,带一点若有若无的锋利感。
+
+核心反差:普通少女的外形,配上克制、沉稳、帅气的握剑动作。
+
+【02|真实手持DV与焦点变化】
+
+严格 5秒、60fps、完整一镜到底、正常实时速度,禁止慢动作。
+
+保持原图斜侧面中近景构图,摄影机位于女主斜前方近距离手持拍摄,剑身从前景斜切过画面。
+
+全程保留明显的真实手持DV质感:细碎高频抖动、呼吸式上下起伏、轻微左右漂移、迎风拍摄时的自然惯性偏移。
+
+镜头整体可以轻微向右侧漂移一点点,形成自然空间视差。
+
+当女主伸手时,镜头顺势轻微跟一下她的动作,但不要大幅移动,始终保留女主的脸和长剑。
+
+焦点变化:
+
+•
+开始焦点在女主眼睛
+
+•
+伸手时轻微转焦到右上方剑柄
+
+•
+握紧的一瞬间短暂微失焦
+
+•
+随后重新回到女主的眼神上
+
+镜头不要稳定器般丝滑,要像摄影师站在风里近距离抓拍,真实、有呼吸感。
+
+【03|人物动作与眼神表演|5秒】
+
+0-1.2s|安静注视,眼神开始变化
+
+女主保持原图姿态,先安静看着面前悬浮的紫色长剑。
+
+她的目光顺着剑身慢慢移动,最后停在右上方的剑柄位置。
+
+一开始是轻微的好奇,随后眼神慢慢收紧,变得专注起来。
+
+风吹乱刘海,她没有整理,只是静静盯着那把剑,像忽然意识到这不是普通的东西。
+
+1.2-2.8s|抬手靠近,准备握住剑柄
+
+女主轻轻抬起下巴,身体重心微微向前。
+
+随后右手自然抬起,朝右上方缓缓伸过去。
+
+动作不要太快,也不要犹豫得很弱,而是那种安静但确定的靠近。
+
+手指先自然张开,快接近剑柄时微微收拢,眼神始终锁定目标,整个人开始带出一点冷静的帅气感。
+
+2.8-4.0s|真正握住,紫光增强
+
+女主的右手真实握住剑柄。
+
+五指依次收紧,握实的一瞬间,剑身上的紫色能量明显增强一次--一道紫色流光沿剑刃快速窜过,粒子在周围短暂散开。
+
+镜头可在这一瞬间产生极轻微失焦,再迅速拉回。
+
+女主没有被吓到,也没有夸张反应,只是神情更平静,像这把剑本来就该属于她。
+
+4.0-5.0s|持剑收势,眼神冷静帅气
+
+女主保持右手握剑的姿态,把剑柄轻轻往自己这边带近一点。
+
+剑身只做小幅自然偏移,仍然保持原图斜向构图。
+
+她微微抬起下巴,目光从剑身移到前方,眼神冷静、克制、带一点漫不经心的锋利感。
+
+结尾停留在:狂风吹乱她的黑发,普通校园少女却稳稳握住一把流淌紫光的武器。
+
+【04|狂风与紫色粒子特效】
+
+强风必须贯穿完整5秒。
+
+女主的黑色长发、针织毛衣、衬衫袖口和格纹裙摆都持续被风吹动,发丝要有明显的分层、回弹和乱流感。
+
+不要只是轻微飘动,要有那种迎风拍摄的强烈氛围感。
+
+长剑特效是另一个重点:
+
+•
+剑身持续缠绕紫色流光
+
+•
+周围漂浮少量紫白色粒子
+
+•
+握剑瞬间出现一次明显的能量脉冲
+
+•
+紫光轻微映照到女主手指、袖口、下颌和眼睛边缘
+
+粒子必须围绕剑身运动,不要无规律铺满全画面。
+
+【05|电影光线与视觉质感】
+
+日系半写实3D CG动漫电影质感。
+
+ARRI Alexa Mini LF + Cooke Panchro/i 35mm,T2.0,1/8 Black Pro-Mist。
+
+整体保持柔和逆光、浅景深、奶油散景、轻微Bloom与Halation。
+
+画面基底是暖金色自然光,长剑是冷紫色能量光,形成暖金阳光 × 冷紫武器光的反差。
+
+女主皮肤清透、发丝边缘高光明亮,背景低饱和、柔和虚化。
+
+整体依旧是日系青春电影感,但因为长剑的存在,多了一层奇幻帅气气息。
+
+【06|硬性约束与导演指令】
+
+1.
+严格5秒、60fps、一镜到底、正常实时速度。
+
+2.
+保持人物服装、脸部、场景与原图构图不变。
+
+3.
+剑柄始终位于右上方,女主必须用右手向右上方伸出并握住剑柄。
+
+4.
+核心动作:注视长剑 → 锁定剑柄 → 伸手靠近 → 五指握紧 → 紫光增强 → 冷静持剑。
+
+5.
+不允许突然拔剑、挥剑、攻击或加入复杂战斗动作。
+
+6.
+女主表情必须克制、冷静、帅气,不夸张惊讶。
+
+7.
+狂风必须持续明显吹动头发和衣物。
+
+8.
+摄影机必须全程保留真实手持DV抖动、呼吸感和一次自然焦点变化。
+
+9.
+禁止额外手指、手掌穿模、剑柄错位、脸部漂移、剑身变形。
+
+10.
+最终气质必须突出:普通校园少女,却像天生能驾驭这把紫色长剑。
+
+【最终导演指令】
+
+狂风吹过校园建筑,一个穿着普通灰色针织毛衣和格纹短裙的少女站在画面中,面前悬浮着一把散发紫色辉光的长剑。她先安静注视长剑,目光顺着剑身缓缓移向右上方的剑柄,神情从温和变得专注。随后她自然抬起右手,朝剑柄伸去,并稳稳握住。握紧的一瞬间,紫色能量沿剑身快速流动,粒子短暂扩散,镜头轻微失焦后重新落回她的眼睛。她没有夸张反应,只是平静地握住那把流淌紫光的剑,微微抬起下巴,眼神冷静而锋利。暖金色逆光和冷紫色辉光交织在她的发丝与脸侧,形成“普通少女 × 神秘武器”的强烈帅气反差。

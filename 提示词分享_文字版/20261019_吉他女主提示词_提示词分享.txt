@@ -1,0 +1,136 @@
+﻿20261019 吉他女主提示词
+
+示例 01
+cinematic Japanese-inspired semi-realistic 3D CG still, elegant young adult woman holding an acoustic guitar in a huge sunlit hall with floor-to-ceiling windows, soft blush pink flowing dress, long black hair, ultra-wide long shot, low-angle view, subject occupies only 15% of frame, large environmental space, full body visible, warm diffused sunlight, soft global illumination, bright luminous rim light, wind moving her hair and dress, dreamy Cooke lens softness --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 02
+cinematic Japanese semi-realistic 3D CG still, dreamy youth fashion film, Japanese girl carrying an acoustic guitar on her back, walking alone by the riverside, wide shot, sunny day, strong backlight, soft global illumination, bright rim light, windy hair and fluttering skirt, creamy highlights, cool gray shadows, shallow depth of field, Cooke lens look, soft bokeh --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 03
+cinematic Japanese semi-realistic 3D CG stll, Japanese girl sitting by a riverside railing playing acoustic guitar, medium shot, relaxed and gentle mood, sunny afternoon, soft diffused light, luminous rim light, wind-blown hair, loose cardigan moving in the wind, creamy golden highlights, shallow DOF, soft bokeh --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 04
+cinematic Japanese semi-realistic 3D CG still, Japanese girl playing violin on a rooftop, wide shot, sunny sky, strong backlight, glowing rim light around hair and dress, powerful wind blowing her hair and clothes, dreamy youth film atmosphere, soft global illumination, large aperture, soft background blur, cinematic Cooke lens feel --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 05
+cinematic Japanese semi-realistic 3D CG still, Japanese girl playing violin on a rooftop, wide shot, sunny sky, strong backlight, glowing rim light around hair and dress, powerful wind blowing her hair and clothes, dreamy youth film atmosphere, soft global illumination, large aperture, soft background blur, cinematic Cooke lens feel --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 06
+cinematic Japanese-inspired semi-realistic 3D CG stll, elegant young adult woman seated on a wooden chair playing acoustic guitar, head-to-toe full body composition, both feet fully visible, soft blush pink layered dress with flowing sleeves and an above-knee front layer, barefoot, camera positioned farther away, quiet sunlit bedroom, warm afternoon light through curtains, wind moving her hair and fabric, glowing rim light, soft global illumination, dreamy creamy bokeh, poetic film atmosphere --ar 16:9 --hd --raw --p m7503837332148060199
+
+示例 07
+cinematic Japanese semi-realistic 3D CG still, elegant adult Japanese woman playing violin on a rooftop, full body shot, barefoot, burgundy dress with flowing long sleeves, black lace choker, long black hair flowing in the wind, sunny blue sky, strong backlight, luminous rim light, soft global illumination, emotional and dreamy atmosphere, large aperture, creamy highlights, Cooke lens look --ar 16:9 --hd --raw --p m7503468272767991815
+
+视频提示词(部分:
+
+@image1(首帧与人物状态参考)--严格继承参考图中的黑发女主、白色礼裙、白色小提琴、近距离人物构图、强逆光高光、日系CG动漫质感与朦胧柔光氛围,以原图作为视频第一帧。
+
+空间布局(MAIN VIEW=近距离侧前方手持横移拍摄):
+
+女主正在高处开阔环境中演奏小提琴,摄影机位于她正前方略偏右的位置,以中近景拍摄人物脸部、肩颈、小提琴、琴弓与双手动作。女主占据画面主体,远处环境全部虚化成淡蓝灰与暖白高光散景,前景偶尔有柔焦光斑掠过,形成明显近中远景层次。
+
+对白规则:无对白,仅保留强风声、小提琴演奏声、衣料摩擦声、发丝被风吹动的细微声响与环境底噪。
+
+本视频严格只有1个镜头,完整5s一镜到底,禁止切镜。
+
+人物演奏动作必须保持正常实时速度,禁止慢动作、禁止机械运弓、禁止人物静止摆拍。右手琴弓、左手按弦、肩颈、头部与身体重心必须始终保持连续自然运动。
+
+【镜头1】@image1(作为严格首帧、构图、氛围与人物状态参考)
+
+机位:
+
+中近景,摄影机位于女主斜前方略偏右,略低于眼睛高度,保持女主面部、小提琴主体、琴弓运动和双手清晰可读。Cooke镜头柔和成像质感,超大光圈,背景城市与环境完全压成奶油般散景;强逆光从女主后侧进入画面,在头发、肩膀、小提琴边缘和白色礼裙上形成明亮轮廓光,带轻微halation与bloom,整体柔和但人物主体保持清晰。
+
+摄影机运动:
+
+真实手持DV镜头拍摄感。
+
+镜头从原图位置开始,5秒内持续缓缓向画面左侧横移,摄影师像站在女主面前一边观察她演奏,一边自然侧步移动。横移速度稳定但不是轨道式平滑,始终保持女主脸部与小提琴处于主体区域。
+
+整个过程持续存在明显真实手持感:
+
+细碎高频轻微抖动、摄影师呼吸造成的上下起伏、侧步移动造成的小幅左右晃摆、偶尔一次短暂构图偏后自然重新找回人物。
+
+不是稳定器式丝滑镜头,也不是固定机位。
+
+要像摄影师在强风中手持DV近距离拍摄,身体被风和移动影响,因此画面始终有轻微、不规则但真实的晃动。
+
+摄影机位置:
+
+始终位于女主正前方偏右到正前方之间,在缓慢向左移动过程中产生轻微角度变化,但不绕到她背后,不做复杂环绕,不突然推近或后拉。女主始终占据画面中央偏右或中央区域。
+
+背景:
+
+高处日系午后逆光环境,整体低饱和淡蓝灰基调叠加暖白阳光。背景建筑、天空与远景全部保持极浅景深虚化,只留下柔和散景与闪烁高光。光线通透、空气感强,但不要额外增加复杂视觉特效。
+
+动作:
+
+女主真正沉浸在小提琴演奏里。
+
+她保持琴身稳定夹在肩颈之间,右手以正常速度连续运弓,琴弓在琴弦上做真实、有节奏的往复运动;左手手指在指板上持续自然换位、按弦,不能固定在一个位置。
+
+她的肩膀、手腕、肘部和手指要彼此协调,动作具有真实音乐节奏感,而不是单纯摆动手臂。
+
+人物身体不是完全静止。
+
+随着运弓节奏,她的上半身会有轻微前后或左右重心变化,肩颈会随着旋律自然放松和收紧;头部偶尔轻轻跟随音乐产生很小的律动。
+
+女主可以保持微微低头或闭眼演奏,在中段自然露出非常淡的微笑,像真的沉浸在音乐和风里,而不是专门对镜头笑。
+
+狂风贯穿整个5秒。
+
+长发是最重要动态主体--头发持续被强风向画面左侧或侧后方大幅吹起,整束发丝扬起、甩动、回弹,然后再次被下一阵风卷起;发丝运动有明显惯性、延迟与层次。
+
+白色礼裙肩部、荷叶边、轻薄布料与裙摆边缘持续被风吹动,快速flutter、翻起、落下,不允许衣服完全静止。
+
+微表演细节(actor performance micro-beats):
+
+1 0-1.5s:
+
+女主已经处于连续演奏状态,不需要先停顿再开始。
+
+右手正常速度运弓,左手持续按弦换指。
+
+第一阵强风立刻吹起她的大量头发,发丝快速掠过脸侧。
+
+她微微低着头,神情专注沉浸。
+
+摄影机从右前方开始手持向左横移。
+
+2 1.5-3.5s:
+
+演奏动作继续,不停琴、不减速。
+
+琴弓完成连续数次真实往复运弓,左手同步快速但自然地调整指位。
+
+女主身体随着节奏出现轻微自然律动,头部也有极小幅跟随音乐的运动。
+
+此时第二阵更强的风吹来,头发整束再次大幅扬起,白色礼裙边缘明显翻飞。
+
+她嘴角自然出现一点很淡的微笑,像在享受音乐,不看镜头。
+
+3 3.5-5s:
+
+女主保持沉浸演奏状态,右手继续完整运弓,左手持续换指。
+
+她可以微微抬一点下巴或轻轻偏头,仍然闭眼或半垂眼,神态放松自然。
+
+最后一阵风再次扫过,发丝大幅横向飞扬,部分头发从脸前快速掠过;摄影机在向左移动中产生一次明显但自然的小幅手持晃动,随后迅速找回人物构图,自然结束。
+
+环境活动:
+
+持续强风贯穿全程。
+
+女主头发、礼裙边缘、小提琴装饰细节持续受到风力影响。
+
+背景高光随着手持横移产生轻微视差和闪烁,前景可偶尔有一两处柔焦光斑掠过,但不要加入大量无关粒子,不要喧宾夺主。
+
+风格:
+
+日系CG动漫电影质感,半写实人物渲染,柔和Cooke光学质感,超大光圈,极浅景深,明亮逆光边缘光,低饱和清透色调,奶油感散景,轻微halation与bloom。
+
+最重要的是:
+
+真实手持DV向左横移 + 正常速度真实拉琴 + 持续强风 + 连续身体律动。
+
+人物不能像模特拿着琴慢慢摆动作,而要像一个真正沉浸演奏的人,手臂、手腕、手指、肩颈、头部和身体始终保持有音乐节奏的连续运动;狂风不断扰动头发和礼裙,但她始终自然流畅地继续演奏。

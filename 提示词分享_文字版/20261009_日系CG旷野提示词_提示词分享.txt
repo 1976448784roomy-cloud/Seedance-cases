@@ -1,0 +1,22 @@
+﻿20261009 日系CG旷野提示词
+
+示例 01
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, soft painted CG shading, warm sunset light, soft daylight global illumination, luminous rim light, creamy Cooke lens rendering, large aperture, strong glowing bokeh, full body shot, a young woman crouching in an open field near distant abandoned industrial structures, gently touching or picking wildflowers, looking toward the camera, short dark hair, warm-colored outerwear, soft golden haze, foreground grass and seed heads blurred into glowing bokeh, no close-up --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 02
+cinematic Japanese 3D CG animation stll, semi-realistic stylized CG adult woman, long wavy dark brown hair blowing dramatically in the wind, white blouse and muted red skirt, medium half-body shot, standing beside an old countryside railway, facing camera with a gentle smile, one hand holding her windblown hair, golden sunset backlight, soft global illumination, bright luminous hair edges, creamy Cooke lens softness, large aperture, heavily blurred foreground weeds, warm glowing bokeh --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 03
+cinematic Japanese 3D CG animation stll, semi-realistic stylized CG adult woman, soft painted CG shading, warm sunset light, soft global illumination, luminous rim light, creamy Cooke lens rendering, large aperture, strong glowing bokeh, full body shot, a young woman standing quietly in a field of tall reeds, relaxed posture, layered warm-colored outfit, gentle wind lifting her hair and skirt, dreamy golden atmosphere, foreground reeds and grasses softly blurred, soft haze and glowing backlight --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 04
+dark hair flowing wildly, wearing a light beige flowing dress, distant full body shot, standing on a vast sunlit grassland with old windmills, arms freely stretched outward, low-angle wide shot, subject small in frame, powerful wind moving hair and dress, soft golden sunlight, luminous rim light, creamy Cooke lens look, large aperture, softly blurred foreground grass, dreamy honey- colored atmosphere --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 05
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, soft painted CG shading, warm amber sunset, soft daylight global illumination, luminous rim light, creamy Cooke lens rendering, large aperture, strong glowing bokeh, full body shot, a young woman sitting casually among wildflowers and tall grass, facing the camera, one knee slightly raised, loose cardigan over a light dress, calm and candid mood, warm honey color palette, blurred foreground flowers and grass creating soft bokeh layers, no close-up --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 06
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, soft painted CG shading, warm late-afternoon sunlight, soft global illumination, luminous rim light, bright soft edge highlights, creamy Cooke lens rendering, large aperture, strong glowing bokeh, full body shot, a young woman walking slowly through a grassy riverside path, relaxed natural posture, warm-toned long skirt and soft outerwear, wind moving her hair and clothes, blurred foreground grass and plants, dreamy outdoor atmosphere, golden reflections and haze --ar 21:9 --hd --raw --p m7503468272767991815
+
+示例 07
+cinematic Japanese 3D CG animation stll, semi-realistic stylized CG adult woman, soft painted CG shading, warm golden-hour sunlight, soft daylight global illumination, luminous rim light, bright soft edge highlights, creamy Cooke lens rendering, large aperture, strong glowing bokeh, a young woman standing in a golden flower field, turning back gently toward the camera, short dark bob hair, light wind moving her hair and dress, warm orange and honey color palette, dreamy atmosphere, foreground flowers blurred into glowing bokeh --ar 21:9 --hd --raw --p m7503468272767991815

@@ -1,0 +1,26 @@
+﻿20260922 东方美学2提示词
+
+示例 01
+Strict 90-degree perpendicular flat side elevation, Cooke cinema look, epic ancient Chinese imperial palace, monumental vermilion wall spanning horizontally, an immense ancient tree with sprawling golden-amber foliage overhanging from above, brilliant low-sun golden raking rays projecting a massive sharp tree shadow with intricate dappled leaf shapes across the red wall, strictly one single solitary woman in pure white flowing silk hanfu walking in side view along the base, absolutely no other person, violent wind billowing her long train horizontally, air filled with dancing gold leaf particles, magnificent scale contrast, poetic cinematic masterpiece, no modern elements, no text --ar 21:9 --raw --stylize 400 --hd
+
+视频:电影级单镜头,全景平视构图,前景为石砌步道,朱红宫墙横贯画面,巨大金黄古树从上方垂落枝桠,斑驳树影铺满墙面,一名青色汉服女子呈侧面 90 度沿步道向画面右侧缓慢行走,人物占画面比例极小。运镜为平稳向右水平横移跟随,始终保持与人物的固定距离,利用古树、红墙、步道形成细腻视差,镜头平滑稳定无抖动。狂风吹动女子裙摆与长发,衣袂向后轻扬;金黄树叶微微摇晃,零星叶片随风飘落;空气中浮动金色微尘粒子,丁达尔光效透过枝叶洒在红墙上,树影随枝叶晃动缓缓摇曳。超写实古风质感,秋日宫墙静谧宏大,暖金光影氛围感浓厚。严格保持原图构图、建筑形态、人物数量与服装,禁止增加元素,禁止建筑扭曲、人物畸变、快速运动、现代元素、文字水印。
+
+示例 02
+Strict 90-degree side profile composition, horizontal perspective, outdoor waterside with flat red stone terrace above the shore, a gigantic sprawling tree ablaze with golden leaves, powerful raking sunlight projecting rich textured dappled leaf shadows across the red stone wall, strictly one solitary ancient lady walking smoothly toward the right edge, no bystanders, autumn gale blowing garments, delicate film grain, timeless cinematic atmosphere, no text --ar 21:9 --raw --stylize 400 --hd
+
+电影级单镜头,全景平视构图,前景为平静水面与石砌堤岸,朱红宫墙横贯背景,苍劲金黄古树从左侧探出枝冠,树影铺满墙面,一名外披红袍、内着白裙的女子呈侧面 90 度沿堤岸向画面右侧缓慢行走,人物占画面比例很小。运镜为平稳向右水平横移跟随,保持与人物固定距离,通过水面、古树、红墙形成层次丰富的视差,镜头沉稳平滑。狂风吹动女子外袍与长发,衣摆向后飘扬;古树枝叶微微摇晃,金叶随风飘落;水面泛起细碎涟漪,树影与红墙倒影随波微动;空气中浮动金色粒子,丁达尔光效柔和洒落。超写实古风质感,临水宫墙秋日萧瑟,静谧悠远。严格保持原图构图、建筑、树木形态与人物服装,禁止额外元素,禁止畸变、抖动、现代元素。
+
+示例 03
+Perfect 90-degree side profile panoramic shot, Cooke anamorphic prime lens, monumental ancient Chinese architecture with dark tiled roof and vast imperial red wall, a gigantic ancient maple tree lush with bright crimson and amber leaves, powerful directional afternoon sunlight casting dramatic dappled foliage shadows and stark tree silhouette on the red facade, strictly one single person in frame, a solitary tiny ancient maiden in elegant black robes walking rightward in complete profile, absolutely no second person, strong gale billowing her gown and scattering golden leaves, soft Cooke highlight roll-off, epic poetic scale, no modern objects, no text --ar 21:9 --raw --stylize 400 --hd
+
+电影级单镜头,全景平视构图,朱红宫墙与殿顶横贯背景,苍劲红枫树从左侧伸展枝冠,树影投在红墙之上,一名黑衣外袍、白裙内搭的女子呈侧面 90 度沿步道向画面右侧缓慢行走,人物占画面比例很小。运镜为平稳向右水平横移跟随,保持与人物固定距离,利用红枫、宫墙、步道形成细腻视差,镜头平滑稳定。狂风吹动女子黑色外袍与长发,衣摆大幅向后飘扬;红枫枝叶摇晃,红叶纷纷飘落,在空中随风飞舞;红墙上树影随枝叶晃动摇曳;空气中浮动金色粒子,丁达尔光效掠过墙面。超写实古风质感,秋日宫墙肃杀静谧,故事感浓厚。严格保持原图构图、建筑、树木与人物服装,禁止额外元素,禁止畸变、快速运动。
+
+示例 04
+Cinematic waist-up medium portrait of a graceful ancient Chinese woman standing firm in an autumn windstorm, extreme foreground framed by out-of-focus red maple leaves and soft architectural shadows, subject sharply rendered in center, wild wind tearing her layered flowing garments and long dark tresses horizontally, dense shower of flying red foliage caught in motion blur between foreground and background, soft volumetric Tyndall beams breaking through mist, glowing warm dust motes, rich scarlet and ochre tones, cinematic optical depth, 50mm prime lens, no text --ar 16:9 --raw --stylize 400 --hd
+
+电影级单镜头,近景手持跟拍,镜头随人物行进缓慢向后匀速退镜,保持人物始终居于画面中心,带有自然轻微的呼吸抖动,无快速运镜与镜头突变。前景多层虚化红枫叶贴近镜头形成流动散景,画面主体为身着红色肌理感古风长袍、内搭白色中衣的女子。 狂风持续席卷:女子乌黑长发向四周肆意飞扬,发丝凌乱拂过脸颊;红色衣袍与围领大幅度翻涌飘摆,布料褶皱随气流自然起伏。女子缓步朝镜头方向走来,行进过程中缓缓低头,抬手轻拂整理额前凌乱的发丝,动作舒缓舒展。 空气中大量红枫叶与金色微尘粒子随风穿梭飘舞,前景虚化红叶随气流轻微晃动起伏;暖调丁达尔光束穿透叶隙斜向洒落,在人物发丝与衣料边缘勾勒出柔和金边,光影随叶片晃动缓缓流动。 超写实古风电影质感,皮肤纹理、发丝毛躁、布料肌理真实细腻,浓烈红调裹挟破碎氛围感,故事感强烈。严格保持原图人物五官特征、服装形制与整体色调,禁止面部变形、肢体畸变,禁止新增人物、建筑与道具,禁止现代元素、文字水印与卡通质感。
+
+示例 05
+three-quarter side angle, lifting one slender hand gently to shield her face from the howling wind, messy elegant hair dancing in the breeze, flowing linen collar fluttering, brilliant raking afternoon sunlight filtering through out-of-focus maple branches overhead, casting sharp dappled leaf shadows across the warm red wall, air filled with drifting luminous particles and swirling leaf fragments, high-contrast cinematic lighting, pure oriental aesthetic, no modern objects, no text --ar 16:9 --raw --stylize 400 --hd
+
+电影级单镜头,中近景平视构图,朱红宫墙为背景,枫叶树影错落投在墙面上,一名内着红衣、外披米白衣衫的古风女子居于画面中心,抬手轻触发丝。运镜为手持拍摄,保持人物构图稳定,带有轻微自然呼吸抖动,无大幅运镜。狂风吹动女子长发与衣袂,发丝肆意飞扬拂过脸颊,衣料褶皱随风翻涌;红墙上枫叶树影随风晃动,光影缓缓流动;空气中漂浮细小红叶碎屑与金色粒子,光线在墙面与衣物上形成柔和明暗变化。超写实古风质感,红墙明艳,人物清冷破碎,电影光影质感突出。严格保持原图构图、人物姿态与服装,禁止面部变形、肢体畸变,禁止增加元素、现代元素与水印。

@@ -1,0 +1,82 @@
+﻿20261020 日系CG舞蹈提示词
+
+示例 01
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, bright afternoon convenience store lighting mixed with warm sunlight from the window, medium-long shot, full body visible, a cheerful young woman dancing in a convenience store aisle, wearing an oversized cream hoodie with a short dark skirt and sneakers, smiling sweetly, walking with tiny bouncy steps while one hand marks the beat in the air, upright body, lively spontaneous rhythm, shelves and product colors softly blurred around her, youthful carefree mood --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 02
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, colorful indoor ambient lights softened by bloom, medium-long shot, full body visible, a lively young woman dancing inside a karaoke room, wearing a white cropped jacket over a fitted top and loose black pants, sneakers, smiling openly toward the camera, walking with confident rhythmic arm swings and light footwork, upright posture, free and expressive, neon reflections and sofa seating softly blurred, energetic and joyful atmosphere --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 03
+cinematic Japanese 3D CG animation stll, semi-realistic stylized CG adult woman, warm indoor lighting mixed with soft colorful party lights, medium-long shot, full body visible, a stylish young woman dancing happily in a wedding banquet hall, wearing a soft knit top with floral patterns and a pleated skirt, smiling brightly, walking while doing playful rhythmic hand gestures and tiny dance steps, upright natural posture, confident and charming, people and decorations softly blurred in the background, lively festive mood --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 04
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, late-afternoon soft sunlight, bright luminous edges, medium-long shot, full body visible, low-angle follow shot, a young woman in an oversized pale pink sweatshirt and short pleated skirt, white socks and sneakers, walking along the side of a neighborhood mini market, turning back with a carefree smile and lifting one hand as if caught in a spontaneous dance moment, hair glowing in backlight, stacked crates and posters softly blurred, candid freedom --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 05
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, late-afternoon soft sunlight, bright luminous edges, medium-long shot, full body visible, low-angle follow shot, a young woman in an oversized pale pink sweatshirt and short pleated skirt, white socks and sneakers, walking along the side of a neighborhood mini market, turning back with a carefree smile and lifting one hand as if caught in a spontaneous dance moment, hair glowing in backlight, stacked crates and posters softly blurred, candid freedom --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 06
+up, dramatic wide-angle perspective, immersive POV, the young woman leans very close to the camera, both hands covering her eyes, peeking at the viewer through the gaps between her fingers, playful and adorable expression, teasing smile, lively sparkling eye visible through the fingers, soft afternoon glow, luminous rim light, bright soft highlights on hair and cheeks, creamy Cooke lens rendering, large aperture, shallow depth of field, strong foreground distortion, intimate viewer interaction, dreamy cinematic atmosphere --ar 16:9 --hd --raw --p m7503468272767991815
+
+示例 07
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG adult woman, soft golden indoor light with dramatic contrast, medium-long shot, full body visible, a young woman dancing in a retro dance hall corner, wearing a black satin slip dress with a long slit and elegant heels, smiling with a lively confident expression, walking forward while lifting one arm and rotating her wrist in a light dance gesture, upright graceful posture, hair flowing softly, glamorous yet playful, background lights blurred into glowing bokeh --ar 16:9 --hd --raw --p m7503468272767991815
+
+@image1(严格首帧与人物状态参考)--保持参考图中的短发黑发女主、蓝色宽松上衣、深色短裤、室内暖金色逆光环境、日系CG动漫电影质感、柔和朦胧空气感,以原图作为视频第一帧。本视频严格只有 1个镜头,完整 5秒一镜到底,禁止切镜。
+
+全部动作保持 正常实时速度,不要慢动作,不要机械摆拍,不要像标准编舞。
+
+无对白,仅保留持续风声、轻微衣料摩擦声、环境底噪。【镜头1】机位摄影机位于女主侧前方略偏右的位置,以 中景到半身偏全身景别 拍摄。
+
+构图保持自然抓拍感,人物始终清晰可读。
+
+背景为室内暖光环境,光线柔和,空间略微虚化,形成很强的日系氛围和朦胧感。镜头质感日系CG动漫电影质感,半写实人物渲染,Cooke镜头柔和成像,超大光圈,背景高光柔化,带轻微 halation、bloom 和空气感。
+
+整体色调低饱和、暖金色、柔和通透,逆光勾出人物头发边缘光,氛围自由、轻盈、浪漫。摄影机运动(重点)真实手持DV镜头拍摄感。镜头从原图位置开始,5秒内 持续向画面左边缓慢移动,始终保持对舞蹈中的女主进行观察式跟拍。
+
+不是环绕,不是大范围推拉,而是摄影师一边轻轻往左挪动,一边手持抓拍她在原地自由起舞。整个过程中持续存在明显但自然的真实手持感:细碎高频轻微抖动呼吸带来的轻微上下浮动摄影师移动时的小幅左右晃摆偶尔被风或身体动作带出一点轻微偏移,再自然找回人物不要稳定器式丝滑。
+
+不要固定镜头不动。
+
+要有“摄影师站在风里、边看边拍边往左移动”的真实身体感。
+
+镜头整体向左移动,但始终把女主保持在画面主体位置。人物动作(重点优化)这条的核心不是“大动作跳舞”,而是 原地自由舞动,要有明显节奏感、律动感、轻盈感和即兴感。
+
+她不是在认真表演,而是像被风和情绪带起来,自然而然开始在原地跳起来。整体状态:自由、松弛、灵动、带一点俏皮和洒脱。动作设计女主保持基本在原地,不走远,只做 原地换重心、小碎步、轻摆、转肩、转胯、轻抬手、轻弹步 这些动作。
+
+舞蹈动作要像一种 很有节奏的小律动组合:开始时,她的身体已经顺着风轻轻晃动一只手自然抬起,像画面里那样带一点俏皮的小手势肩膀先轻轻一晃,带动上半身向左微微打开接着脚下做 原地轻点步 / 小碎步换重心,身体有轻轻下沉再回弹的律动她顺势带一个 小幅摆肩 + 转腰 + 侧身轻晃,动作流畅,像踩着节拍再接一个 很轻的小弹步,脚步不离地太高,只是轻盈地弹一下上半身继续跟着节奏自然摆动,手腕和手指轻轻甩出一点细节某一个瞬间她微微低头笑一下,再顺势抬起下巴,像完全沉浸在自己的节奏里后半段可以接一个 半转身幅度的小旋摆,不是完整转圈,而是身体轻轻旋开再收回来动作收尾时保持余韵,继续在原地小幅舞动,不要突然停住动作一定要有 连贯律动,像音乐感从身体里自然流出来。
+
+不要像拆动作教学。
+
+不要太大幅夸张。
+
+重点是:原地自由舞动,但看起来有节奏、有生命力、有动态变化。微表演细节(actor performance micro-beats)0-1.5s女主已经处于风中,第一阵风吹起她的短发和上衣。
+
+她先带一个自然的小手势,肩膀轻轻一晃,上半身顺势开始律动。
+
+脚下开始做原地小幅换重心和轻点步。
+
+摄影机带着真实手持抖动缓慢向左移动。1.5-3.5s她的状态变得更自由,开始进入更明显的原地舞动:
+
+小碎步、轻弹步、摆肩、转腰、轻微侧身旋摆接连发生。
+
+动作有明显节奏感,但依旧自然、生活化,不像正式跳舞。
+
+第二阵更强的风吹来,头发明显扬起,上衣袖子和下摆随风摆动,画面动势更强。3.5-5s她继续保持原地自由舞蹈,动作更加松弛自如。
+
+某一个瞬间可以带一个轻轻低头笑、再抬头的情绪流动,像玩得很开心。
+
+最后接一个小幅半转摆动或小弹步,头发和衣服再次被风吹起。
+
+摄影机继续带着真实呼吸感和轻晃向左移动,在她自由舞动的状态中自然结束。风与动态狂风必须持续而明显地贯穿全程。
+
+头发是最重要的动态主体--短发不断被吹起、扬开、回弹、掠过脸侧。
+
+宽松上衣袖子和下摆持续被风带动,形成柔软摆荡。
+
+人物每一个舞蹈动作都要和风产生联动,让画面始终处于一种“风和身体一起流动”的状态。
+
+整体动态感要强,但依旧轻盈、自由、不粗暴。环境氛围室内暖金色逆光环境,背景柔焦虚化,空间中带一点朦胧空气感。
+
+整体像在午后暖光里,一个女孩被风和情绪带动,即兴地自由跳起来。
+
+氛围感要很强,要有那种轻盈、浪漫、日常却又电影感十足的抓拍感。风格日系CG动漫电影质感,半写实人物渲染,真实手持DV观察式跟拍,柔光,朦胧空气感,低饱和暖金色调,超大光圈,梦幻散景。重点突出:真实手持DV抖动摄像机持续向左移动跟拍女主基本原地自由舞蹈动作有节奏感、律动感、动感不是标准编舞,而是自然即兴舞动狂风持续吹动头发和衣服整体自由、洒脱、轻盈、浪漫

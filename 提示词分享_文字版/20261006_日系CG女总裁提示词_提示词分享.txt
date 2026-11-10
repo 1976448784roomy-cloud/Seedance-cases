@@ -1,0 +1,23 @@
+﻿20261006 日系CG女总裁提示词
+
+模型:Mj v8.2
+
+P值:--p m7503468272767991815
+
+示例 01
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, fitted black blazer dress, black stilettos, optional glasses, deep blue midnight city, high-rise interior, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, full-body shot, a poised woman standing in front of floor-to-ceiling windows inside a skyscraper lounge, one leg slightly crossed, one hand holding a wine glass at her side, calm cold expression, distant neon skyline melting into dreamy blue bokeh --hd --raw --p m7503837332148060199
+
+示例 02
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, fitted black blazer dress, black stilettos, optional glasses, deep blue midnight city, high-rise interior, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, full-body shot, a poised woman standing in front of floor-to-ceiling windows inside a skyscraper lounge, one leg slightly crossed, one hand holding a wine glass at her side, calm cold expression, distant neon skyline melting into dreamy blue bokeh --hd --raw --p m7503837332148060199
+
+示例 03
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, structured black blazer dress, black stilettos, glasses, deep blue midnight city, luxury penthouse interior, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, full-body shot, a woman leaning lightly against a floor-to-ceiling window frame, one hand touching the glass, one ankle relaxed forward, composed and intelligent expression, reflected city lights surrounding her with soft dreamy bokeh --hd --raw --p m7503837332148060199
+
+示例 04
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, black satin dress, black high heels, deep blue midnight city, high-rise cocktail bar, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, medium close-up, a glamorous woman sitting on a bar stool near panoramic windows, legs elegantly crossed, one hand lightly resting on a cocktail glass, calm self-assured expression, moody bar lights and skyline bokeh behind her --hd --raw --p m7503837332148060199
+
+示例 05
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, structured black blazer dress, black stilettos, glasses, deep blue midnight city, luxury penthouse interior, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, full-body shot, a woman leaning lightly against a floor-to-ceiling window frame, one hand touching the glass, one ankle relaxed forward, composed and intelligent expression, reflected city lights surrounding her with soft dreamy bokeh --hd --raw --p m7503837332148060199
+
+示例 06
+cinematic Japanese 3D CG animation still, semi-realistic stylized adult woman, cool powerful older-sister aura, structured black blazer dress, black stilettos, glasses, deep blue midnight city, luxury penthouse interior, soft practical lighting, luminous rim light, large aperture, creamy city bokeh, soft Cooke lens rendering, luxurious cinematic atmosphere, full-body shot, a woman leaning lightly against a floor-to-ceiling window frame, one hand touching the glass, one ankle relaxed forward, composed and intelligent expression, reflected city lights surrounding her with soft dreamy bokeh --hd --raw --p m7503837332148060199

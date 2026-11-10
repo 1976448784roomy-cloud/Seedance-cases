@@ -1,0 +1,22 @@
+﻿20261004 日系CG雨夜提示词
+
+模型:mj v8.2 
+关键:P值:--p m 7503837332148060199
+
+示例 01
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, visible rainfall, rainy day atmosphere, falling raindrops clearly visible, wet ground, puddles and splashes, soft diffused rainy light, moist air, cinematic mood, soft Cooke lens rendering, atmospheric haze, delicate bokeh, wide environmental full-body shot, camera pulled back, entire figure visible from head to shoes, both shoes fully inside the frame, generous headroom, a young woman standing halfway on an outdoor overpass staircase in the rain, one hand holding the railing, dark coat over blouse and skirt, raindrops hitting the metal steps, wet surfaces glistening, city background blurred by rainfall --ar 21:9 --hd --raw --p m7503837332148060199
+
+示例 02
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, rainy overcast atmosphere, soft diffused light, moist air, cinematic mood, soft Cooke lens rendering, shallow depth of field, atmospheric haze, delicate bokeh, emotional and immersive, wide environmental full-body shot, camera pulled back, entire figure visible from head to shoes, both shoes fully inside the frame, subject occupies only 25-35% of frame height, generous headroom, a young woman standing near a quiet harbor warehouse district in light rain, wearing a dark trench coat, skirt and loafers, hands in her coat pockets, wet concrete, stacked crates and distant cranes softened by gray mist, cinematic melancholy --ar 21:9 --hd --raw --p m7503837332148060199
+
+示例 03
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, rainy overcast atmosphere, soft diffused light, moist air, cinematic mood, soft Cooke lens rendering, shallow depth of field, atmospheric haze, delicate bokeh, emotional and immersive, medium shot, a girl sitting by the window inside a tram on a rainy day, looking out through the fogged glass, oversized sweater, shoulder bag resting beside her, faint reflection of her glasses in the window, soft dim interior light and blurred rainy city outside --ar 21:9 --hd --raw --p m7503837332148060199
+
+示例 04
+inematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, visible rainfall, rainy day atmosphere, falling raindrops clearly visible, wet ground, puddles and splashes, soft diffused rainy light, moist air, cinematic mood, soft Cooke lens rendering, atmospheric haze, delicate bokeh, wide environmental full-body shot, camera pulled back, entire figure visible from head to shoes, both shoes fully inside the frame, generous headroom, a young woman waiting alone at a small rural mountain bus stop in the rain, transparent umbrella, soft cardigan, long skirt and loafers, rain falling in front of the shelter, misty trees and wet road disappearing into the distance --ar 21:9 --hd --raw --p m7503837332148060199
+
+示例 05
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, visible rainfall, rainy day atmosphere, falling raindrops clearly visible, wet ground, puddles and splashes, soft diffused rainy light, moist air, cinematic mood, soft Cooke lens rendering, atmospheric haze, delicate bokeh, wide environmental full-body shot, camera pulled back, entire figure visible from head to shoes, both shoes fully inside the frame, generous headroom, a young woman standing at a hilltop observation deck while rain falls steadily, both hands lightly holding the railing, long coat over skirt, wet wooden floorboards, distant town softened completely by rain and fog --ar 21:9 --hd --raw --p m7503837332148060199
+
+示例 06
+cinematic Japanese 3D CG animation still, semi-realistic stylized CG young woman, wearing glasses, frontal close-up, rainy day atmosphere, visible falling raindrops, wet hair strands, water droplets on glasses, soft diffused rainy light, moist air, soft Cooke lens rendering, shallow depth of field, atmospheric haze, delicate bokeh, emotional and immersive, a girl lowering her head slightly and looking back up toward the camera through rain-speckled glasses, quiet melancholic expression, wet loose hair framing her face, strong rainy mood --ar 21:9 --hd --raw --p m7503837332148060199
